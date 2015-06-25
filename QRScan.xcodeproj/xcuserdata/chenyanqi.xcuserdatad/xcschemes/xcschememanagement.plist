@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>QRAction.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>QRScan.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3E058B9C1B3BCF4000514516</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3E2BE0101B3A482E00934B86</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3E2BE0251B3A482E00934B86</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3E72D65F1B3BD5FB003BEEC9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
